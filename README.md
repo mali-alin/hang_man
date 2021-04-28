@@ -5,13 +5,15 @@
 Автор : https://github.com/mali-alin
 
 Перед запуском программы необходимо выполнить следующую команду:
-
 ```
 bundle install
 ```
 
+Запуск программы:
 
-Запуск программы: 
+```
+bundle install
+```
 
 <img width="583" alt="Снимок экрана 2021-04-27 в 21 47 13" src="https://user-images.githubusercontent.com/79279989/116296405-dbda7600-a7a2-11eb-9945-cc47067b9a9b.png">
 
